@@ -1,0 +1,1 @@
+ALTER TABLE `catalogAlbums` ADD `vinylImage` text;

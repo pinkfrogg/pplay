@@ -1,0 +1,1 @@
+ALTER TABLE `catalogTracks` ADD `durationSeconds` int;

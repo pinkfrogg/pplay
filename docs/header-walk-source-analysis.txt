@@ -1,0 +1,14 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-3de8af5f-1149-408f-8c9a-411928c37e29)
+[7s] Status: Analysis completed
+[7s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/video_animationgirl_analysis_20260827_153706.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+The woman and her poodle exhibit the following movements throughout the video:
+
+- **Horizontal Travel:** From the beginning until approximately 00:03, the pair travels horizontally from right to left across the screen.
+- **Pause and Pose:** At 00:03, they stop. The woman turns to face the viewer, showing off two shopping bags, while the poodle stands on its hind legs and barks. They remain in this posed position until about 00:07.
+- **Reverse Direction:** At 00:07, the woman turns and begins walking in the opposite direction. The pair then travels horizontally from left to right for the remainder of the clip.

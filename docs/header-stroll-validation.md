@@ -1,0 +1,3 @@
+# Header Stroll Validation
+
+The shared listening-rail header was verified on the public collection after the opening overlay completed. The woman-and-poodle silhouette remains contained on the divider below “Barbara’s Playlist” and above the search control, leaving both controls legible. Desktop and mobile captures confirm that the rail, collection, and album player retain their existing responsive layouts. A frozen center-frame check confirms the woman’s hand-on-hip pose and the poodle’s two-paw standing pose; CSS then mirrors the figure for the return journey. Reduced-motion visitors receive the same static ornament without motion.
